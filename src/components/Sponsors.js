@@ -15,18 +15,18 @@ const useStyles = makeStyles((theme) => ({
     fontStyle: "normal",
     fontWeight: "bold",
     transition: "0.4s",
-    margin: "0 auto",
+    margin: "20px auto",
     maxWidth: 600,
   },
   describe: {
     fontFamily: "Raleway",
     fontStyle: "normal",
     transition: "0.4s",
-    margin: "20px auto",
+    margin: "0 auto",
     maxWidth: 700,
   },
   grid: {
-    paddingTop: "4rem",
+    paddingTop: "2rem",
     transition: "0.4s",
   },
   gridItem: {
